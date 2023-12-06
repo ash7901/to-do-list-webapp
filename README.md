@@ -5,5 +5,4 @@ In this web application, a number of tasks can be added (here 3) and can be mark
 
 In this JavaScript project a local storage is used, which stores the task list/ To-Do-List in the web browser, so that if the web browser is closed or restarted it will display the list saved in the browser.
 
-
 ![To-Do-List](https://github.com/ash7901/to-do-list-webapp/assets/110192339/9490ff86-e7c7-4e96-831c-b5c4a48e82a2)
